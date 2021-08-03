@@ -74,12 +74,12 @@
 					{
 						"choose": {
 							"from": [
-								"arcana",
-								"history",
-								"insight",
-								"investigation",
-								"medicine",
-								"religion"
+								"arcana|奥秘",
+								"history|历史",
+								"insight|洞悉",
+								"investigation|调查",
+								"medicine|医学",
+								"religion|宗教"
 							],
 							"count": 2
 						}
